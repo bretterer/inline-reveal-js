@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Place your slid.es deck inline in your post.  This will create a 
+Place your slid.es deck inline in your post.  This will create an inline slideshow from Slides.com.
 
 == Installation ==
 
